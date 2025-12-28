@@ -24,12 +24,13 @@ The analysis is based on:
 - Monthly AQI trends  
 - Pollutant concentration data (PM2.5, PM10, gases)  
 - Disease case counts by state  
-- Vehicle registration volumes by state  
-
+- Vehicle registration volumes by state
 ⚠️ All insights are strictly derived from the obtained datasets.
 
 ---
-
+The combined data volume spans **hundreds of thousands of rows per dataset**, crossing **over one million records in total**.
+---
+---
 ## 📊 Data Source
 The datasets used in this project were provided as part of a resume project challenge hosted on **Codebasics.io**, with data sponsored by **Dataful**.
 
