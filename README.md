@@ -1,4 +1,4 @@
-# 🌫️ Air Quality Risk Analysis & Air Purifier Market Assessment (India)
+# 🌫️ Air Quality Risk Analysis  (India)
 
 ## 📌 Project Overview
 This project analyzes air quality, pollution severity, health impact, and emission indicators across Indian states to identify regions with critical air pollution exposure and assess where air purifiers are most urgently required.
